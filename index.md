@@ -8,3 +8,7 @@
 
 [Explaining my Animal Parade Program Video](https://drive.google.com/file/d/1r70fGT8_UTnDReHeSpZfPBxcc1kjzNUE/view?usp=share_link)
 
+# Week 3
+[Explaining my Nested Repeats Porgram Video](https://drive.google.com/file/d/1qSH0dsMtRkIxHn9EJtfMXxHKNQ6XSMH5/view?usp=share_link)
+
+[Explaining my Events Program Video](https://drive.google.com/file/d/1OlL9C6UfRa7FBT8VB7S6VMJ_jKMsc3NL/view?usp=share_link)

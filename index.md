@@ -12,3 +12,6 @@
 [Explaining my Nested Repeats Porgram Video](https://drive.google.com/file/d/1qSH0dsMtRkIxHn9EJtfMXxHKNQ6XSMH5/view?usp=share_link)
 
 [Explaining my Events Program Video](https://drive.google.com/file/d/1OlL9C6UfRa7FBT8VB7S6VMJ_jKMsc3NL/view?usp=share_link)
+
+# Week 4
+[Explaining my Variables Porgram Video](https://drive.google.com/file/d/1E_cd0AwbTSKdLhDPhX3tvImJktCR-ImT/view?usp=share_link)

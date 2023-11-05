@@ -15,3 +15,6 @@
 
 # Week 4
 [Explaining my Variables Porgram Video](https://drive.google.com/file/d/1E_cd0AwbTSKdLhDPhX3tvImJktCR-ImT/view?usp=share_link)
+
+# Week 5
+[Explaining my Conditional Loops Program Video](https://drive.google.com/file/d/1NzvbwtLCmh6CvlxHa9s5YZJWapZXmiaP/view?usp=sharing)

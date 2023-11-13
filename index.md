@@ -18,3 +18,6 @@
 
 # Week 5
 [Explaining my Conditional Loops Program Video](https://drive.google.com/file/d/1NzvbwtLCmh6CvlxHa9s5YZJWapZXmiaP/view?usp=sharing)
+
+# Week 6
+[Explaining my If Program Video](https://drive.google.com/file/d/1X7pzj5MbyNfPULZeCrtX0Tp0vqTbF59L/view?usp=sharing)

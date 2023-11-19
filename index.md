@@ -21,3 +21,6 @@
 
 # Week 6
 [Explaining my If Program Video](https://drive.google.com/file/d/1X7pzj5MbyNfPULZeCrtX0Tp0vqTbF59L/view?usp=sharing)
+
+# Week 7
+[Explaining my Nested If Program Video](https://drive.google.com/file/d/1ojmxtl0-KyclbGFTa62FzU58CCvf0KAn/view?usp=share_link)

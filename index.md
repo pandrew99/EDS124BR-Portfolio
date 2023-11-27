@@ -24,3 +24,6 @@
 
 # Week 7
 [Explaining my Nested If Program Video](https://drive.google.com/file/d/1ojmxtl0-KyclbGFTa62FzU58CCvf0KAn/view?usp=share_link)
+
+# Week 8
+[Explaining my Compound Conditionals Program Video](https://drive.google.com/file/d/1J9DVcVBWVk2ls2P2FqmvHaCI4PWdSSrR/view?usp=sharing)

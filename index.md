@@ -27,3 +27,6 @@
 
 # Week 8
 [Explaining my Compound Conditionals Program Video](https://drive.google.com/file/d/1J9DVcVBWVk2ls2P2FqmvHaCI4PWdSSrR/view?usp=sharing)
+
+# Week 9
+[Explaining my Abstraction Program Video](https://drive.google.com/file/d/1hd1vFy99MOCQtcpcw2XBBvnJys96lctB/view?usp=share_link)

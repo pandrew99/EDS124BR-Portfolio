@@ -30,3 +30,6 @@
 
 # Week 9
 [Explaining my Abstraction Program Video](https://drive.google.com/file/d/1hd1vFy99MOCQtcpcw2XBBvnJys96lctB/view?usp=share_link)
+
+# Week 10
+[Explaining my Lists Program Video](https://drive.google.com/file/d/1ITEh6YBxbwulM4ZQmv1W2wulXfBe2fvy/view?usp=share_link)
